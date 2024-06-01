@@ -225,6 +225,6 @@ class VoronoiSlices {
 const image = new Image();
 image.addEventListener('load', () => new VoronoiSlices(image));
 // image.src = 'https://res.cloudinary.com/marcofugaro/image/upload/v1570113726/simone-hutsch-skyscrapers_n7vgyi.jpg';
-image.src = "June 66 27.jpeg";
+// image.src = "June 66 27.jpeg";
 // image.src = "Untitled 1 29.jpeg";
-// image.src = "Untitled 6 1.jpeg";
+image.src = "Untitled 6 1.jpeg";
